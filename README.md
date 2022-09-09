@@ -12,3 +12,8 @@ This Program can detect the following
 This Program Is Also An Edge Detector
 
 <img width="1440" alt="Screen Shot 2022-09-06 at 1 26 52 PM" src="https://user-images.githubusercontent.com/63679448/188700812-98e2d3a4-2963-4912-a464-fbeb7f6dc6fa.png">
+
+How it Works 
+
+This program uses open source Haar Cascade Classifiers to identifiy features on faces
+
