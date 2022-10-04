@@ -17,3 +17,6 @@ How it Works
 
 This program uses open source Haar Cascade Classifiers to identifiy features on faces
 
+*Originaly trained using pictures such as this
+
+![Photo on 2022-10-04 at 8 19 AM](https://user-images.githubusercontent.com/63679448/193817522-bea8296b-eca6-4496-a0a0-795f11089499.jpg)
